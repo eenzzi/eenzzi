@@ -1,12 +1,16 @@
 ## EZ's Github🤗
+<br>
+
 
 🎓 서울과학기술대학교 전자공학과 졸업
+<br>
 <br>
 ✏️ 삼성 청년 SW 아카데미 (SSAFY) 12기
 
 
 ### Git Status
-
+---
+<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eenzzi&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eenzzi)]
 
