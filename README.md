@@ -6,6 +6,7 @@
 
 ✏️ 삼성 청년 SW 아카데미 (SSAFY) 12기
 <br>
+<br>
 
 ### Git Status
 ---
