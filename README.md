@@ -8,6 +8,10 @@
 <br>
 <br>
 <br>
+## Project
+[🌟 Stelligence - 함께 만들어가는 지식의 별자리](https://github.com/Eagle-Strike-7)
+<br>
+<br>
 
 ## Git Status
 ---
@@ -20,5 +24,4 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feenzzi%2Fhit-counter&count_bg=%23DB8085&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Project
-[🌟 Stelligence - 함께 만들어가는 지식의 별자리](https://github.com/Eagle-Strike-7)
+
