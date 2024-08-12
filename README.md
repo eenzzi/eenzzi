@@ -7,7 +7,6 @@
 ✏️ 삼성 청년 SW 아카데미 (SSAFY) 12기 ~
 <br>
 <br>
-<br>
 ## Project
 [🌟 Stelligence - 함께 만들어가는 지식의 별자리](https://github.com/Eagle-Strike-7)
 <br>
