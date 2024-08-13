@@ -1,6 +1,6 @@
 # EZ's Github🤗
-
-2019.03 ~ 2024.08 <br>
+<span style="color:gray">2019.03 ~ 2024.08</span>
+ <br>
 🎓 서울과학기술대학교 전자공학과 졸업
 <br>
 
