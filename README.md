@@ -18,9 +18,6 @@
 <br>
 [🌟 Stelligence - 함께 만들어가는 지식의 별자리](https://github.com/Eagle-Strike-7)
 <br>
-<br>
-[🌰 Bal-Bam - 산책 커뮤니티 서비스](https://github.com/Bal-Bam/GG-backend)
-<br>
 
 <br>
 
