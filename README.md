@@ -38,11 +38,7 @@
 <img src="https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=JENKINS&logoColor=white">
 <br>
 <br>
-## Git Status
----
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eenzzi&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eenzzi)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=purelej99)](https://solved.ac/purelej99/)
 
